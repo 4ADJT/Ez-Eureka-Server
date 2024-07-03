@@ -19,7 +19,7 @@ O objetivo deste serviço é atuar como um registro central para todos os micros
 
 1. Clone o repositório:
 ```sh
-git clone <URL-DO-REPOSITORIO>
+git clone https://github.com/4ADJT/Ez-Eureka-Server.git
 cd Ez-Eureka-Server
 ```
 
@@ -41,4 +41,4 @@ docker run -p 8761:8761 ez-eureka-server
 ```
 
 ## Configuração
-A configuração do Eureka Server pode ser encontrada no arquivo application.properties na pasta src/main/resources.
+A configuração do Ez-Eureka-Server pode ser encontrada no arquivo application.properties na pasta src/main/resources.
